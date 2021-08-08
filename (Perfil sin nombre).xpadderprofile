@@ -1,0 +1,41 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.05.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button1Slots=Left Mouse Button (1)
+Set1Button2Slots=Right Mouse Button (2)
+Set1Button3Slots=Space
+Set1Button4Slots=F
+Set1Button5Slots=Mouse Wheel Up
+Set1Button6Slots=Mouse Wheel Down
+Set1Button7Slots=Q
+Set1Button8Slots=Left Shift,K
+Set1Button9Slots=E
+Set1Button10Slots=Escape
+Set1Button11Slots=Left Control
+Set1Button12Slots=F5
+Set1DPadUpSlots=Mouse Move Up
+Set1DPadUpMouseSpeed=32
+Set1DPadRightSlots=Mouse Move Right
+Set1DPadRightMouseSpeed=32
+Set1DPadDownSlots=Mouse Move Down
+Set1DPadDownMouseSpeed=32
+Set1DPadLeftSlots=Mouse Move Left
+Set1DPadLeftMouseSpeed=32
+Set1Stick1UpSlots=Arrow Up
+Set1Stick1RightSlots=Arrow Right
+Set1Stick1DownSlots=Arrow Down
+Set1Stick1LeftSlots=Arrow Left
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=32
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=32
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=32
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=32
